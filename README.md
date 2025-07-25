@@ -68,6 +68,5 @@ java -cp target VectorClockSimulation
 ## Limpeza
 
 Para limpar os arquivos compilados:
-```bash
 rm -rf target/*
 ```
